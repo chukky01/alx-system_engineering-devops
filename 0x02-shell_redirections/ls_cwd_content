@@ -1,0 +1,14 @@
+total 0
+drwxr-xr-x 1 paul paul 512 May 30 15:54 .
+drwxr-xr-x 1 paul paul 512 May 30 15:23 ..
+-rwxr-xr-x 1 paul paul  30 May 30 15:25 0-hello_world
+-rwxr-xr-x 1 paul paul  28 May 30 15:29 1-confused_smiley
+-rwxr-xr-x 1 paul paul  28 May 30 15:34 2-hellofile
+-rwxr-xr-x 1 paul paul  39 May 30 15:37 3-twofiles
+-rwxr-xr-x 1 paul paul  29 May 30 15:40 4-lastlines
+-rwxr-xr-x 1 paul paul  29 May 30 15:44 5-firstlines
+-rwxr-xr-x 1 paul paul  40 May 30 15:47 6-third_line
+-rwxr-xr-x 1 paul paul  90 May 30 15:50 7-file
+-rwxr-xr-x 1 paul paul  36 May 30 15:54 8-cwd_state
+-rwxr-xr-x 1 paul paul  17 May 30 15:52 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 paul paul   0 May 30 15:54 ls_cwd_content
